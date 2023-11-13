@@ -1,6 +1,8 @@
 # Blockchain-Final-Exam | To-Do List
 Myrzakhanov Abylaykhan, Yerassyl Omirtay, Alikhan Nurkerimov CS-2106
 
+*Our application hosted on https://jocular-smakager-a4dc87.netlify.app/*
+
 For start the code, write in terminal *npm start*
 
 ![1](https://github.com/Futur1stXD/Blockchain-Final-Exam/assets/126179639/f69009cd-3338-46bb-9e1f-581f8b90803c)
