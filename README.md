@@ -3,7 +3,11 @@ Myrzakhanov Abylaykhan, Yerassyl Omirtay, Alikhan Nurkerimov CS-2106
 
 *Our application hosted on https://jocular-smakager-a4dc87.netlify.app/*
 
-For start the code, write this dependencies in terminal *npm i ethers, npm i web3, npm start*
+For start the code, write this dependencies in terminal: 
+*npm i ethers* 
+*npm i web3*
+*npm start*
+
 
 ![1](https://github.com/Futur1stXD/Blockchain-Final-Exam/assets/126179639/f69009cd-3338-46bb-9e1f-581f8b90803c)
 ![2](https://github.com/Futur1stXD/Blockchain-Final-Exam/assets/126179639/1bc56d64-c886-41ef-bb61-25b0f5179579)
