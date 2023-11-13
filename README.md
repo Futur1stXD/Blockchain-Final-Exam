@@ -5,7 +5,9 @@ Myrzakhanov Abylaykhan, Yerassyl Omirtay, Alikhan Nurkerimov CS-2106
 
 For start the code, write this dependencies in terminal: 
 *npm i ethers* 
+
 *npm i web3*
+
 *npm start*
 
 
