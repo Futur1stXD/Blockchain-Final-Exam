@@ -4,6 +4,7 @@ Myrzakhanov Abylaykhan, Yerassyl Omirtay, Alikhan Nurkerimov CS-2106
 *Our application hosted on https://jocular-smakager-a4dc87.netlify.app/*
 
 For start the code, write this dependencies in terminal: 
+
 *npm i ethers* 
 
 *npm i web3*
